@@ -1,0 +1,6 @@
+{
+  "name": "Shubhankar",
+  "description": "A fun and interactive math learning game for kids featuring counting, additions, subtractions, multiplications, divisions, and fun rewards with Shubhankar!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
